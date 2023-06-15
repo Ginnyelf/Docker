@@ -21,6 +21,7 @@ build/
 out/
 .data
 .wrapper
+gradle
 
 
 ### NetBeans ###
@@ -43,6 +44,7 @@ out/
 *.rar
 *.gradle
 *.bat
+gradlew
 
 
 ### Exclusions ###
